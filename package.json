@@ -14,10 +14,14 @@
     "test": "jest"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+git@github.com:miniapp-develop/vendor.git"
   },
+  "bugs": {
+    "url": "https://github.com/miniapp-develop/vendor"
+  },
+  "homepage": "https://github.com/miniapp-develop/vendor",
   "keywords": [],
   "author": "xesam",
-  "license": "ISC",
-  "bugs": {}
+  "license": "ISC"
 }

@@ -1,1 +1,2 @@
-module.exports = require('./src/vendor');
+exports.vendor = require('./src/vendor');
+exports.ex = require('./src/ex');
