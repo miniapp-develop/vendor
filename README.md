@@ -1,4 +1,4 @@
-# miniapp-vendor
+# miniapp vendor
 
 对各个平台的小程序全局对象的替换，具体代码如下：
 
